@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1694461140 source:/home/jack_archer/Repositories/server/error_proccessing.cpp
+	"error_proccessing.h"
+	<sys/types.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<stdio.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<iostream>
+	<sys/socket.h>
+
+1694461140 /home/jack_archer/Repositories/server/error_proccessing.h
+	<sys/types.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<stdio.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<iostream>
+	<sys/socket.h>
+
+1694460810 source:/home/jack_archer/Repositories/server/server.cpp
+	"error_proccessing.h"
+	<sys/types.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<stdio.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<iostream>
+
