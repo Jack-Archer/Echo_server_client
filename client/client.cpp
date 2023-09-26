@@ -47,7 +47,7 @@ int main() {
     size_t nread;
     nread = read(client_fd, buf, sizeof(buf));
     if (nread == -1) {
-        perror("red failed");
+        perror("read failed");
         exit(EXIT_FAILURE);
     }
     if (nread == 0) {
